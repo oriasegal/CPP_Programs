@@ -1,0 +1,6 @@
+﻿  Account.cpp
+c:\users\oria segal\desktop\תרגילים c++\4\question1\question1\account.cpp(8): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+  Main.cpp
+c:\users\oria segal\desktop\תרגילים c++\4\question1\question1\main.cpp(129): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  question1.vcxproj -> C:\Users\oria segal\Desktop\תרגילים C++\4\question1\Debug\question1.exe
