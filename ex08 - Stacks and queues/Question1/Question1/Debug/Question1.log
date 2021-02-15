@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\oria segal\desktop\תרגילים c++\8\question1\question1\main.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\oria segal\desktop\תרגילים c++\8\question1\question1\main.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\oria segal\desktop\תרגילים c++\8\question1\question1\main.cpp(123): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\oria segal\desktop\תרגילים c++\8\question1\question1\main.cpp(123): error C2146: syntax error: missing ';' before identifier 'any'
