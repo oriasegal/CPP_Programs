@@ -1,0 +1,62 @@
+﻿  BA.cpp
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(31): error C3646: 'studType': unknown override specifier
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(31): error C2059: syntax error: ')'
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(31): error C2238: unexpected token(s) preceding ';'
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ba.h(22): error C3646: 'studType': unknown override specifier
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ba.h(22): error C2059: syntax error: '('
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ba.h(22): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  MA.cpp
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(31): error C3646: 'studType': unknown override specifier
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(31): error C2059: syntax error: ')'
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(31): error C2238: unexpected token(s) preceding ';'
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ba.h(22): error C3646: 'studType': unknown override specifier
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ba.h(22): error C2059: syntax error: '('
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ba.h(22): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ma.h(16): error C3646: 'studType': unknown override specifier
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ma.h(16): error C2059: syntax error: '('
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ma.h(16): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  Main.cpp
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(31): error C3646: 'studType': unknown override specifier
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(31): error C2059: syntax error: ')'
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(31): error C2238: unexpected token(s) preceding ';'
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\phd.h(15): error C3646: 'studType': unknown override specifier
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\phd.h(15): error C2059: syntax error: '('
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\phd.h(15): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ba.h(22): error C3646: 'studType': unknown override specifier
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ba.h(22): error C2059: syntax error: '('
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ba.h(22): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ma.h(16): error C3646: 'studType': unknown override specifier
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ma.h(16): error C2059: syntax error: '('
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ma.h(16): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\main.cpp(92): error C2039: 'studType': is not a member of 'Student'
+  c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(7): note: see declaration of 'Student'
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\main.cpp(141): error C2039: 'studType': is not a member of 'Student'
+  c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(7): note: see declaration of 'Student'
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\main.cpp(141): error C2039: '__this': is not a member of 'Student'
+  c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(7): note: see declaration of 'Student'
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\main.cpp(149): error C2039: 'studType': is not a member of 'Student'
+  c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(7): note: see declaration of 'Student'
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\main.cpp(149): error C2039: '__this': is not a member of 'Student'
+  c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(7): note: see declaration of 'Student'
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\main.cpp(165): error C2039: 'studType': is not a member of 'Student'
+  c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(7): note: see declaration of 'Student'
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\main.cpp(165): error C2039: '__this': is not a member of 'Student'
+  c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(7): note: see declaration of 'Student'
+  PHD.cpp
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(31): error C3646: 'studType': unknown override specifier
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(31): error C2059: syntax error: ')'
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(31): error C2238: unexpected token(s) preceding ';'
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\phd.h(15): error C3646: 'studType': unknown override specifier
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\phd.h(15): error C2059: syntax error: '('
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\phd.h(15): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ba.h(22): error C3646: 'studType': unknown override specifier
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ba.h(22): error C2059: syntax error: '('
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ba.h(22): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ma.h(16): error C3646: 'studType': unknown override specifier
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ma.h(16): error C2059: syntax error: '('
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\ma.h(16): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  Student.cpp
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(31): error C3646: 'studType': unknown override specifier
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(31): error C2059: syntax error: ')'
+c:\users\oria segal\desktop\תרגילים c++\7\question1\question1\student.h(31): error C2238: unexpected token(s) preceding ';'
+  Generating Code...
