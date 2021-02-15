@@ -1,0 +1,15 @@
+﻿  Main.cpp
+  SearchTree.cpp
+  Tree.cpp
+  Generating Code...
+Main.obj : error LNK2019: unresolved external symbol "public: virtual __thiscall Tree<int>::~Tree<int>(void)" (??1?$Tree@H@@UAE@XZ) referenced in function "public: virtual __thiscall SearchTree<int>::~SearchTree<int>(void)" (??1?$SearchTree@H@@UAE@XZ)
+Main.obj : error LNK2019: unresolved external symbol "private: void __thiscall Tree<int>::inOrder(class Node<int> *)" (?inOrder@?$Tree@H@@AAEXPAV?$Node@H@@@Z) referenced in function "public: void __thiscall Tree<int>::inOrder(void)" (?inOrder@?$Tree@H@@QAEXXZ)
+Main.obj : error LNK2019: unresolved external symbol "private: int __thiscall Tree<int>::leaves(class Node<int> *)" (?leaves@?$Tree@H@@AAEHPAV?$Node@H@@@Z) referenced in function "public: int __thiscall Tree<int>::leaves(void)" (?leaves@?$Tree@H@@QAEHXZ)
+Main.obj : error LNK2019: unresolved external symbol "private: int __thiscall Tree<int>::height(class Node<int> *)" (?height@?$Tree@H@@AAEHPAV?$Node@H@@@Z) referenced in function "public: int __thiscall Tree<int>::height(void)" (?height@?$Tree@H@@QAEHXZ)
+Main.obj : error LNK2019: unresolved external symbol "private: void __thiscall Tree<int>::reflect(class Node<int> *)" (?reflect@?$Tree@H@@AAEXPAV?$Node@H@@@Z) referenced in function "public: void __thiscall Tree<int>::reflect(void)" (?reflect@?$Tree@H@@QAEXXZ)
+Main.obj : error LNK2019: unresolved external symbol "private: int __thiscall Tree<int>::onlyLeftSon(class Node<int> *)" (?onlyLeftSon@?$Tree@H@@AAEHPAV?$Node@H@@@Z) referenced in function "public: int __thiscall Tree<int>::onlyLeftSon(void)" (?onlyLeftSon@?$Tree@H@@QAEHXZ)
+Main.obj : error LNK2019: unresolved external symbol "public: virtual void __thiscall SearchTree<int>::add(int)" (?add@?$SearchTree@H@@UAEXH@Z) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "private: bool __thiscall SearchTree<int>::search(class Node<int> *,int)" (?search@?$SearchTree@H@@AAE_NPAV?$Node@H@@H@Z) referenced in function "public: virtual bool __thiscall SearchTree<int>::search(int)" (?search@?$SearchTree@H@@UAE_NH@Z)
+Main.obj : error LNK2019: unresolved external symbol "private: void __thiscall SearchTree<int>::remove(class Node<int> * &,int)" (?remove@?$SearchTree@H@@AAEXAAPAV?$Node@H@@H@Z) referenced in function "public: virtual void __thiscall SearchTree<int>::remove(int)" (?remove@?$SearchTree@H@@UAEXH@Z)
+Main.obj : error LNK2019: unresolved external symbol "private: int __thiscall SearchTree<int>::level(class Node<int> *,int)" (?level@?$SearchTree@H@@AAEHPAV?$Node@H@@H@Z) referenced in function "public: int __thiscall SearchTree<int>::level(int)" (?level@?$SearchTree@H@@QAEHH@Z)
+C:\Users\oria segal\Desktop\תרגילים C++\11\Question1\Debug\Question1.exe : fatal error LNK1120: 10 unresolved externals
