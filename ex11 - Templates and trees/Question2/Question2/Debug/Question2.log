@@ -1,0 +1,6 @@
+﻿  SearchTree.cpp
+  Tree.cpp
+  Main.cpp
+c:\users\oria segal\desktop\תרגילים c++\11\question2\question2\main.cpp(10): fatal error C1083: Cannot open include file: 'SearchTree.h': No such file or directory
+  Student.cpp
+  Generating Code...
