@@ -1,7 +1,6 @@
 /*
 Oria Segal
-209338193
-Homework no. 3 question 4
+Exercise no. 3 question 4
 This program akes for a 4 word string and whites it in a different order.
 */
 #include <iostream>
