@@ -1,7 +1,6 @@
 /*
 Oria Segal
-209338193
-Homework no. 2 question 1
+Exercise no. 2 question 1
 This program does different math problems between 2 rational numbers with different operators.
 */
 #include "Rational.h"
