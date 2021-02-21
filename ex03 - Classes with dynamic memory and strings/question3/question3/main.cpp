@@ -1,7 +1,6 @@
 /*
 Oria Segal
-209338193
-Homework no. 3 question 3
+Exercise no. 3 question 3
 This program calculates the perimeter of a polygon given by points.
 */
 #include <iostream>
