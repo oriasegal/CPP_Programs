@@ -1,7 +1,6 @@
 /*
 Oria Segal
-209338193
-Homework no. 3 question 1
+Exercise no. 3 question 1
 This program combines two strings into one using an inserted number.
 */
 #include<cstring>
