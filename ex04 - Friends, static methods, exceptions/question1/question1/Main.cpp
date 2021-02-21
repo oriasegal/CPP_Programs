@@ -1,7 +1,6 @@
-﻿/*
+/*
 Oria Segal
-209338193
-Homework no. 4 question 1
+Exercise no. 4 question 1
 This program runs a bank with all it's functions.
 */
 #include <iostream>
