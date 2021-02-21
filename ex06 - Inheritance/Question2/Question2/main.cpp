@@ -1,7 +1,6 @@
 /*
 Oria Segal
-209338193
-Homework no. 6 question 2
+Exercise no. 6 question 2
 This program builds polygons, checks if they are triangles or rectangles and can also check if they are equal by side's numbers or length.
 */
 #include<iostream>
