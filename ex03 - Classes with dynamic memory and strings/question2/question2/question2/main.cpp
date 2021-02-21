@@ -1,7 +1,6 @@
 /*
 Oria Segal
-209338193
-Homework no. 3 question 2
+Exercise no. 3 question 2
 This program does different tasks with the vectors we enter acording to what case, what operator we choose to use.
 */
 #include "Vector.h"
