@@ -1,7 +1,6 @@
 /*
 Oria Segal
-209338193
-Homework no. 1 question 2
+Exercise no. 1 question 2
 This program gets a list of all the workers' info and tels us who has the highest salary and who worked the most hours.
 */
 #include "employee.h"
