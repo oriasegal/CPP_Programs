@@ -1,7 +1,6 @@
 /*
 Oria Segal
-209338193
-Homework no. 8 question 2
+Exercise no. 8 question 2
 This program uses the Queue and the Queue Stack to print the main file.
 */
 #include <iostream>
