@@ -1,7 +1,6 @@
 /*
 Oria Segal
-209338193
-Homework no. 6 question 1
+Exercise no. 6 question 1
 This program is using the List program I made befor and by inheritance it can use some of it's functions and valuses.
 */
 #include "RoundList.h"
