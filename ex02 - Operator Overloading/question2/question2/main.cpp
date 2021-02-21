@@ -1,7 +1,6 @@
 /*
 Oria Segal
-209338193
-Homework no. 2 question 2
+Exercise no. 2 question 2
 This program sets different dates acording to what operators we are using.
 */
 #include "Date.h"
