@@ -1,7 +1,6 @@
 /*
 Oria Segal
-209338193
-Homework no. 1 question 1
+Exercise no. 1 question 1
 This program gets two fractions and chacks if they are equal or not.
 */
 #include "rational.h"
