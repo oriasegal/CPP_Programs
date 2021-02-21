@@ -1,7 +1,6 @@
 /*
 Oria Segal
-209338193
-Homework no. 7
+Exercise no. 7
 This is a program that is using 4 different classes that are using each other to organize a list of different students in an academic school.
 */
 
