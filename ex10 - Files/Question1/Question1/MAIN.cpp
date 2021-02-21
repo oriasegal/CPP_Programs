@@ -1,7 +1,6 @@
 /*
 Oria Segal
-209338193
-Homework no. 10
+Exercise no. 10
 This program is using a binary file to make different functions with a student's data.
 */
 
