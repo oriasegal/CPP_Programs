@@ -1,7 +1,6 @@
 /*
 Oria Segal
-209338193
-Homework no. 5 question 1
+Exercise no. 5 question 1
 This program builds a list of numbers and does different actions when asked to.
 */
 
