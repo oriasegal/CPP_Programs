@@ -1,7 +1,6 @@
 /*
 Oria Segal
-209338193
-Homework no. 5 question 2
+Exercise no. 5 question 2
 This program has 2 functions- one merges two lists to a new sorted list, and one takes the meged list and makes sure that the numbers are used only once.
 */
 #include <iostream>
