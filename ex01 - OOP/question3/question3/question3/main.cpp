@@ -1,7 +1,6 @@
 /*
 Oria Segal
-209338193
-Homework no. 1 question 3
+Exercise no. 1 question 3
 This program prints out the circles' and area and also tells us if the piont we entered is on, in or out of one of the circles.
 */
 #include <iostream>
